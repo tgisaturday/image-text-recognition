@@ -15,7 +15,7 @@ How-to:
 3. Unzip pre-trained model and place it under root git repository.
 4. Place your custom image in "images/"
 5. To run the code in Jupyter Notebook, use main.ipynb instead of main.py.
-6. You can find our raw value and coordinates of labels in patent image from "labels/image_name_label.txt"
+6. You can find out raw value and coordinates of labels in patent image from "labels/image_name_label.txt"
 
 Corresponding Paper: Taehoon Kim and Jihoon Yang, 2017, "Region-based Convolutional Neural Networks for Text Label Detection in Patent Images," 한국정보과학회 학술발표논문집, , pp. 2010~2012.
 
